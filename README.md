@@ -1,0 +1,13 @@
+# Bem Vindo
+
+
+- 👋 oi, eu sou, @cberlanda
+- 👀 estou interessado em programação ...
+- 🌱 estou estudando sobre JavaScript ...
+- 💞️ estou trabalhando com os projetos de pensamento computacional ...
+- 📫 voce pode entrar em contato comigo pelo email carlos.berlanda@escola.pr .gov.br ...
+
+<!---
+cberlanda/cberlanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
